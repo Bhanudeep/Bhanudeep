@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech and science related aspects . 
 - 🌱 I’m currently learning Quantum Physics.
 - 💞️ I’m looking to collaborate on any kind of development. Be it web,product,hardware etc.
-- 📫 How to reach me? : bhanudeep6@gmail.com
+- 📫 How to reach me? : bhanudeepsimhadry@gmail.com
 
 <!---
 Bhanudeep/Bhanudeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
