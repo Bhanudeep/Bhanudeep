@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhanudeep
-- 👀 I’m interested in Tech and science related aspects . 
+- 👀 I’m interested in Technology and Science . 
 - 🌱 I’m currently learning Quantum Physics.
 - 💞️ I’m looking to collaborate on any kind of development. Be it web,product,hardware etc.
 - 📫 Reach me at: 
