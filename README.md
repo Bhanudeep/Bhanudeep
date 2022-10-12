@@ -1,11 +1,11 @@
 -  Hi, I’m @Bhanudeep
 -  I’m interested in Technology and Science . 
--  I’m currently obsessed over Quantum Physics.
+-  I’m currently obsessed over Quantum Mechanics.
 -  I’m looking to collaborate on any kind of development. Be it web,product,hardware etc.
--  Reach me at: 
+-  Reach me at@
 -  LinkedIn:https://www.linkedin.com/in/bhanudeep-simhadri-a022a0198
--  Email:bhanudeepsimhadry@gmail.com
--  Instagram: @observeronlook
+-  Email:bhanudeepsimhadry@icloud.com
+-  Instagram: @bhanudeepsimhadry
 -  Twitter: @ObserverOnlook
 
 <!---
