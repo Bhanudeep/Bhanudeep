@@ -1,4 +1,6 @@
-- :raising_hand: Hi, I’m @Bhanudeep
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+I am Bhanudeep Simhadri
+
 -  👨‍💻 I’m interested in Technology and Science . 
 -  🔭 I’m currently obsessed over Quantum Mechanics.
 -  💬 I’m looking to collaborate on any kind of development. Be it web,product,hardware etc.
