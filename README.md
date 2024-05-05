@@ -7,7 +7,6 @@ I am Bhanudeep Simhadri
 -  🔭 I’m currently obsessed over Quantum Mechanics.
 -  🤔 Exploring quantum physics has reshaped my understanding of the universe and led me to reconsider notions of divinity.
 -  🔍 Research fanaticism helped me tackle my medical condition and delve into human anatomy.
--  💪 Sculpting my physique has been a journey of self-improvement fueled by the belief that every woman deserves nothing but the best.
 -  🔬 My dedication led me to explore anatomy, medicine, ancestry, and nutrition.
 -  🏋️‍♂️ Committed to lifelong fitness, I maintain a V-shaped, muscular physique.
 -  🚭 I abstain from smoking and drinking alcohol, preferring the natural high induced by exercise and 'intellectual' stimulation.
