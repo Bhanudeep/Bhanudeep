@@ -1,10 +1,19 @@
 ### Hi there <a href="https://www.BhanudeepSimhadri.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I am Bhanudeep Simhadri
 
--  👨‍💻 I’m interested in Technology and Science . 
+-  👨‍💻 I’m interested in Technology and Science .
+-  💻 As a CS graduate, my passion spans from Quantum Mechanics to Quantum Computing, from app development to Dark web exploration.
+-  🎲 I'm not just a fair dice but a fair tessaract, embodying all dimensions of excellence.
 -  🔭 I’m currently obsessed over Quantum Mechanics.
+-  🤔 Exploring quantum physics has reshaped my understanding of the universe and led me to reconsider notions of divinity.
+-  🔍 Research fanaticism helped me tackle my medical condition and delve into human anatomy.
+-  💪 Sculpting my physique has been a journey of self-improvement fueled by the belief that every woman deserves nothing but the best.
+-  🔬 My dedication led me to explore anatomy, medicine, ancestry, and nutrition.
+-  🏋️‍♂️ Committed to lifelong fitness, I maintain a V-shaped, muscular physique.
+-  🚭 I abstain from smoking and drinking alcohol, preferring the natural high induced by exercise and 'intellectual' stimulation.
+-  💬 Whether discussing anatomy, technology, business, I engage with depth and facts, embracing the laws of nature. 
 -  💬 I’m looking to collaborate on any kind of development. Be it web,product,hardware etc.
--  Visit my LinkedIn profile to know more about my skills,accomplishments and experiences.
+-  Visit my LinkedIn profile to know more about my accomplishments, experiences and connect with me.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
